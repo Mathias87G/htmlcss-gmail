@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+  margin: 10px 20%
+}
+
+footer {text-align: center;
+}
+
+img {
+  width: 100px;
+  border-radius: 7px;
+}
+
+header .Logo {vertical-align: top;
+
+}
+
+.Logo {
+  color: white;
+  font-size: 28px;
+}
+
+hr {
+  border-color: grey;
+}
+
+#Message {
+  color: white;
+  font-size: 28px;
+  margin-top: 10px;
+}
+
+.unread, .read {
+  border: 1px solid black
+}
+
+.unread {
+  background-color: rgb(192, 194, 178)
+}
+
+.read {
+  background-color: white;
+}
+
+.mailtext {
+  color: grey;
+}
+
+#Number {
+  background-color: orange;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+#supplier {color: white;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: bold;
+}
